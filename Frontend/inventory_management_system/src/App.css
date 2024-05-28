@@ -1,0 +1,33 @@
+.add_button {
+    text-align: right;
+}
+
+.tr_color {
+    color: white;
+    background-color: black;
+}
+
+.navbar-nav .nav-link {
+    transition: transform 0.3s;
+    margin: 0 16px;
+}
+.navbar{
+    height: 70px;
+}
+
+.navbar-nav .nav-link:hover {
+    transform: scale(1.1);
+    border-bottom: 2px solid white;
+}
+.nav-item{
+    margin: 0 5px;
+}
+
+.my-icons{
+    border-radius: 50%;
+    border: none;
+}
+.btn-add{
+    background-color:#02b50e;
+    border: none;
+}
